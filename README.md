@@ -14,8 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://openreview.net/forum?id=Pv5l6cvfno">
-    <img src="https://img.shields.io/badge/ICLR%202026-Co--first%20Author-6C4CCF?style=flat-square" alt="ICLR 2026 Co-first Author" />
+  <a href="https://www.linkedin.com/in/%E5%AE%B6%E5%AE%9D-%E9%AB%98-17743a391">
+    <img src="https://img.shields.io/badge/LinkedIn-Jiabao%20Gao-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://orcid.org/0009-0008-1255-6686">
+    <img src="https://img.shields.io/badge/ORCID-0009--0008--1255--6686-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
   <a href="mailto:jiabaogao@link.cuhk.edu.cn">
     <img src="https://img.shields.io/badge/Email-jiabaogao%40link.cuhk.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
