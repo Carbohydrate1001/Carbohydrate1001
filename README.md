@@ -32,21 +32,15 @@
 
 ## Current orbit
 
-I am an incoming joint Ph.D. student in **Artificial Intelligence** at **The Chinese University of Hong Kong, Shenzhen** and **Shenzhen Loop Area Institute**. I am completing my B.Sc. in Computer Science at CUHK-Shenzhen.
+I am completing my B.Sc. in Computer Science at **The Chinese University of Hong Kong, Shenzhen**. In 2026, I will begin a joint Ph.D. in **Artificial Intelligence** at CUHK-Shenzhen and **Shenzhen Loop Area Institute**.
 
-My research begins with a simple question:
+My main interest is **speech understanding**. I do not see speech as text with an audio channel attached: in an ordinary conversation, meaning also comes from tone, pauses, rhythm, emphasis, who is speaking, and what is happening around them. I am curious about what current models can learn from these signals, what they tend to miss, and how that changes the way they understand people.
 
-> How can an intelligent agent understand not only **what** people say, but also **how**, **why**, and **in what situation** they say it — and use that understanding to interact meaningfully with the physical world?
+This is also why I am drawn to **multimodal intelligence**. Sometimes an utterance only makes sense when we can see the object being discussed, notice a person's expression, or understand what has just happened in the environment. I want to explore how speech can be understood together with visual and situational context, rather than as an isolated input.
 
-I am particularly interested in advancing **speech understanding beyond transcription**. Human speech carries far more than words: emotion, rhythm, hesitation, emphasis, speaker state, social intent, and cues from the surrounding environment. I want to develop models that can perceive these signals, connect them with visual and contextual information, and form a richer understanding of people and their situations.
+I care about **interpretability** for a simple reason: when a model reaches the wrong conclusion, I want to understand what it relied on and where the misunderstanding began. I am less interested in explanations that only look convincing, and more interested in whether they genuinely help us examine a model's behavior.
 
-This goal brings together three closely connected research directions:
-
-- **Speech & Multimodal Intelligence** — learning representations that jointly understand linguistic content, paralinguistic cues, visual context, and environmental signals
-- **Interpretable AI** — revealing what multimodal models attend to, how they form judgments, and why they succeed or fail in real interactions
-- **Embodied AI** — enabling agents to listen, see, reason, and act within dynamic physical environments rather than remaining isolated behind a text interface
-
-My long-term goal is to translate these ideas into **reliable, understandable, and useful intelligent systems** that can participate in everyday life. I enjoy working across research questions, algorithms, data pipelines, evaluation, and deployment — from understanding a model's internal representations to building systems that people can actually interact with.
+**Embodied AI** is where these questions meet the real world. What attracts me is not the idea of building an all-capable agent, but the possibility of studying intelligence in situations where listening, seeing, reasoning, and acting are connected. I am still exploring these directions, and I hope to do so through careful questions, honest experiments, and systems that remain close to how people actually communicate.
 
 ## Selected transmissions
 
