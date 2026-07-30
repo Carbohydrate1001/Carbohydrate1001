@@ -71,9 +71,6 @@ My long-term goal is to translate these ideas into **reliable, understandable, a
 ## Milestones
 
 - 🛰️ **Best Research Award**, CCF-SLAI Symposium Poster Session, 2026
-- 🌟 **Dean's List**, School of Data Science, CUHK-Shenzhen, 2023–2026
-- 🎓 **Liyun Scholarship**, CUHK-Shenzhen, 2022–2026
-- 🔭 Former **President of the CUHK-Shenzhen Astronomy Society**, where I also helped bring astronomy workshops to local schools
 
 ## Beyond the terminal
 
@@ -81,6 +78,7 @@ When I am not training models or optimizing schedules, I am probably:
 
 - making something by hand,
 - learning about astronomy and the universe,
+- photographing landscapes and collecting quiet moments in the natural world,
 - spending time with cats, dogs, and other animals,
 - building small games or side projects,
 - or looking for a quiet campfire and a perfectly toasted marshmallow.
